@@ -3,7 +3,7 @@ name: Kitana
 version: dev
 slug: ahs
 description: A responsive Plex plugin web frontend
-url: https://github.com/barisozdag/addon-kitana
+url: https://github.com/barisozdag/ah
 arch:
   - aarch64
   - amd64
